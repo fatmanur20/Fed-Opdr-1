@@ -1,5 +1,5 @@
-* {
-    font-family: "Nexa bold";
+*{
+    font-family: Nexa Bold;
 }
 
 .logo {
@@ -36,6 +36,10 @@ body {
     text-align: left;
 }
 
+@font-face {
+    font-family: NexaBold;
+    src: url(/fonts/Nexa_Bold.otf);
+}
 
 section div {
     margin-left: 0.5em;
